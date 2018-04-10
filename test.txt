@@ -7,3 +7,5 @@ action 3
 checkout 1
 
 aaa
+
+add release
