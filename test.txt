@@ -13,3 +13,5 @@ add release
 add sprint
 
 add dev
+
+merger
